@@ -23,7 +23,7 @@ NETWORKS = {
     "linea": [
         "mainnet",
         "goerli",
-    ]
+    ],
 }
 
 
