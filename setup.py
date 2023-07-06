@@ -14,7 +14,7 @@ extras_require = {
         "linea",
     ],
     "lint": [
-        "black>=23.3.0,<24",  # auto-formatter and linter
+        "black>=23.3.0,<24",  # auto-formatter and linterexpo
         "mypy>=0.991,<1",  # Static type analyzer
         "flake8>=6.0.0,<7",  # Style linter
         "isort>=5.10.1,<6",  # Import sorting linter
