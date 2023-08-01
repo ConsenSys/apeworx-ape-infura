@@ -11,7 +11,7 @@ extras_require = {
         "ape-arbitrum",
         "ape-optimism",
         "ape-polygon",
-        "linea",
+        "ape-linea",
     ],
     "lint": [
         "black>=23.3.0,<24",  # auto-formatter and linterexpo
